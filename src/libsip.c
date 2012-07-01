@@ -1,3 +1,6 @@
+
+#include <api_scilab.h>
+#include <sci_gateway.h>
 #include "sip_common.h"
 #include <mex.h> 
 #ifdef SIP_HAVE_SCI_GATEWAY_H
